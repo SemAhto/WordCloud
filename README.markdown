@@ -8,10 +8,15 @@ What it is good for
 
 As the name tells, this peace implements a WordCloud called collection of words displayed graphically with differenz colors, sizes and alike.
 
+Demo
+-----
+
+There is a [first demo-branch](https://github.com/SemAhto/WordCloud/tree/demo-view-silverlight) available to start over.
+
 Dependencies
 ------------
 
-Additionally [Microsoft's Silverlight](https://www.microsoft.com/silverlight/) is needed to run or implement this,
+Additionally on Microsoft Visual Studio, [Microsoft's Silverlight](https://www.microsoft.com/silverlight/) is needed to run or implement this,
 here especially the [Silverlight SDK](https://www.microsoft.com/en-US/download/details.aspx?id=28359) for developers
 until that can be purged.
 
